@@ -6,7 +6,6 @@ class FlowerArrayException {
             // Array with 10 flower names
             String[] flowers = {"Rose", "Lily", "Tulip", "Orchid", "Daisy",
                     "Sunflower", "Jasmine", "Lavender", "Marigold", "Daffodil"};
-
             // Trying to access the 15th index (out of bounds)
             System.out.println("Flower at index 15: " + flowers[15]);
 
