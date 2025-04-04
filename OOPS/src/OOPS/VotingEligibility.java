@@ -30,8 +30,8 @@ public class VotingEligibility {
     public static void main(String[] args) {
         try {
             // Sample input
-            int age = 20;
-            boolean isCitizen = true;
+            int age = 2;
+            boolean isCitizen = false;
             boolean isResident = true;
             boolean hasCriminalRecord = false;
 
