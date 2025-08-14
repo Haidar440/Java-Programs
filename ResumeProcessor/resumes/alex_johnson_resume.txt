@@ -1,0 +1,43 @@
+Alex Johnson
+Machine Learning Engineer
+
+Contact Information:
+Email: alex.johnson@techcorp.com
+Phone: +1-555-987-6543
+LinkedIn: linkedin.com/in/alexjohnsonml
+GitHub: github.com/alexjohnson-ml
+
+Technical Skills:
+- Python
+- TensorFlow
+- PyTorch
+- Machine Learning
+- Deep Learning
+- Git & GitHub
+- Docker
+- AWS
+
+Professional Experience:
+Senior ML Engineer at AI Innovations (2022-Present)
+- Developed deep learning models for computer vision
+- Implemented MLOps pipelines using Docker and AWS
+- Collaborated on open-source projects via GitHub
+
+ML Engineer at DataTech Solutions (2020-2022)
+- Built recommendation systems using Python and TensorFlow
+- Version control and code review using Git
+- Deployed models to production environments
+
+Education:
+M.S. Computer Science, AI University (2018-2020)
+B.S. Mathematics, Tech Institute (2014-2018)
+
+Projects:
+- Computer Vision API for object detection
+- Recommendation engine for e-commerce
+- Open-source ML library on GitHub
+
+Online Presence:
+GitHub: github.com/alexjohnson-ml
+LinkedIn: linkedin.com/in/alexjohnsonml
+Personal website: alexjohnson.dev

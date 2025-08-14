@@ -1,0 +1,28 @@
+Jane Smith
+Data Scientist
+
+Contact:
+jane.smith@gmail.com
+LinkedIn: linkedin.com/in/jane-smith-data
+GitHub: github.com/janesmith-data
+
+Technical Skills:
+- Python
+- Machine Learning
+- Git & GitHub
+- Data Analysis
+- SQL
+
+Professional Experience:
+Data Scientist - Analytics Inc. (2021-Present)
+- Built machine learning models using Python
+- Version control with Git
+- Collaborated on GitHub projects
+
+Education:
+M.S. Data Science, Data University (2019-2021)
+
+Online Presence:
+GitHub: github.com/janesmith-data
+LinkedIn: linkedin.com/in/jane-smith-data
+Email: jane.smith@gmail.com
