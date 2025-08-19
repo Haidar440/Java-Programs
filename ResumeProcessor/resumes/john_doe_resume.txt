@@ -1,0 +1,33 @@
+John Doe
+Software Engineer
+
+Contact Information:
+Email: john.doe@example.com
+Phone: +1-555-123-4567
+LinkedIn: linkedin.com/in/johndoe123
+GitHub: github.com/johndoe
+
+Skills:
+- Java Programming
+- Spring Framework
+- Git version control
+- RESTful APIs
+- Database Design
+
+Experience:
+Software Engineer at Tech Corp (2020-2023)
+- Developed web applications using Java and Spring
+- Collaborated with team using Git for version control
+- Designed and implemented RESTful APIs
+
+Education:
+Bachelor of Science in Computer Science
+University of Technology (2016-2020)
+
+Projects:
+- E-commerce website with Java Spring Boot
+- RESTful API for mobile application
+- Git repository management tool
+
+You can find my code samples at github.com/johndoe
+Connect with me at linkedin.com/in/johndoe123
